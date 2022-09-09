@@ -55,7 +55,7 @@ Like My Work?
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i8)</li>
+	    <li><b>Laptop: </b> HP Elitebook (CORE i7)</li>
   	    <li><b>Browser: </b> Chromium Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel9k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
