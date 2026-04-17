@@ -6,11 +6,11 @@
 
 ### Glad to see you here! &nbsp;
  
-I'm a Software Developer Currently working in <a href="https://www.spironet.com/" target="_blank"> Spiro Mobility </a> 🚙 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻💻. I'm currently into Web Development, IoT 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Software Developer, passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻💻. I'm currently into Web Development, IoT 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **3** years ago.
+Joined Github **6** years ago.
 
-Since then I pushed **10**+ commits, opened **15**+ issues, submitted **26**+ pull requests, created **3**+ gists and contributed to **5**+ public repositories.
+Since then I pushed **100**+ commits, opened **15**+ issues, submitted **26**+ pull requests, created **3**+ gists and contributed to **5**+ public repositories.
 
 Like My Work?
 
